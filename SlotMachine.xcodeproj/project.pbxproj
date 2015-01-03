@@ -8,45 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		300271FE1A581F88005F5313 /* Slot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 300271FD1A581F88005F5313 /* Slot.swift */; };
-		300272261A582013005F5313 /* Ace.png in Resources */ = {isa = PBXBuildFile; fileRef = 300271FF1A582013005F5313 /* Ace.png */; };
-		300272271A582013005F5313 /* Ace@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272001A582013005F5313 /* Ace@2x.png */; };
-		300272281A582013005F5313 /* Ace@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272011A582013005F5313 /* Ace@3x.png */; };
-		300272291A582013005F5313 /* Eight.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272021A582013005F5313 /* Eight.png */; };
-		3002722A1A582013005F5313 /* Eight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272031A582013005F5313 /* Eight@2x.png */; };
-		3002722B1A582013005F5313 /* Eight@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272041A582013005F5313 /* Eight@3x.png */; };
-		3002722C1A582013005F5313 /* Five.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272051A582013005F5313 /* Five.png */; };
-		3002722D1A582013005F5313 /* Five@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272061A582013005F5313 /* Five@2x.png */; };
-		3002722E1A582013005F5313 /* Five@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272071A582013005F5313 /* Five@3x.png */; };
-		3002722F1A582013005F5313 /* Four.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272081A582013005F5313 /* Four.png */; };
-		300272301A582013005F5313 /* Four@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272091A582013005F5313 /* Four@2x.png */; };
-		300272311A582013005F5313 /* Four@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002720A1A582013005F5313 /* Four@3x.png */; };
-		300272321A582013005F5313 /* Jack.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002720B1A582013005F5313 /* Jack.png */; };
-		300272331A582013005F5313 /* Jack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002720C1A582013005F5313 /* Jack@2x.png */; };
-		300272341A582013005F5313 /* Jack@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002720D1A582013005F5313 /* Jack@3x.png */; };
-		300272351A582013005F5313 /* King.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002720E1A582013005F5313 /* King.png */; };
-		300272361A582013005F5313 /* King@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002720F1A582013005F5313 /* King@2x.png */; };
-		300272371A582013005F5313 /* King@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272101A582013005F5313 /* King@3x.png */; };
-		300272381A582013005F5313 /* Nine.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272111A582013005F5313 /* Nine.png */; };
-		300272391A582013005F5313 /* Nine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272121A582013005F5313 /* Nine@2x.png */; };
-		3002723A1A582013005F5313 /* Nine@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272131A582013005F5313 /* Nine@3x.png */; };
-		3002723B1A582013005F5313 /* Queen.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272141A582013005F5313 /* Queen.png */; };
-		3002723C1A582013005F5313 /* Queen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272151A582013005F5313 /* Queen@2x.png */; };
-		3002723D1A582013005F5313 /* Queen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272161A582013005F5313 /* Queen@3x.png */; };
-		3002723E1A582013005F5313 /* Seven.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272171A582013005F5313 /* Seven.png */; };
-		3002723F1A582013005F5313 /* Seven@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272181A582013005F5313 /* Seven@2x.png */; };
-		300272401A582013005F5313 /* Seven@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272191A582013005F5313 /* Seven@3x.png */; };
-		300272411A582013005F5313 /* Six.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002721A1A582013005F5313 /* Six.png */; };
-		300272421A582013005F5313 /* Six@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002721B1A582013005F5313 /* Six@2x.png */; };
-		300272431A582013005F5313 /* Six@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002721C1A582013005F5313 /* Six@3x.png */; };
-		300272441A582013005F5313 /* Ten.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002721D1A582013005F5313 /* Ten.png */; };
-		300272451A582013005F5313 /* Ten@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002721E1A582013005F5313 /* Ten@2x.png */; };
-		300272461A582013005F5313 /* Ten@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3002721F1A582013005F5313 /* Ten@3x.png */; };
-		300272471A582013005F5313 /* Three.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272201A582013005F5313 /* Three.png */; };
-		300272481A582013005F5313 /* Three@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272211A582013005F5313 /* Three@2x.png */; };
-		300272491A582013005F5313 /* Three@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272221A582013005F5313 /* Three@3x.png */; };
-		3002724A1A582013005F5313 /* Two.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272231A582013005F5313 /* Two.png */; };
-		3002724B1A582013005F5313 /* Two@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272241A582013005F5313 /* Two@2x.png */; };
-		3002724C1A582013005F5313 /* Two@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 300272251A582013005F5313 /* Two@3x.png */; };
+		3002724E1A582141005F5313 /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3002724D1A582141005F5313 /* Factory.swift */; };
 		3070A0431A555C140085FE55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3070A0421A555C140085FE55 /* AppDelegate.swift */; };
 		3070A0451A555C140085FE55 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3070A0441A555C140085FE55 /* ViewController.swift */; };
 		3070A0481A555C140085FE55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3070A0461A555C140085FE55 /* Main.storyboard */; };
@@ -67,45 +29,7 @@
 
 /* Begin PBXFileReference section */
 		300271FD1A581F88005F5313 /* Slot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Slot.swift; sourceTree = "<group>"; };
-		300271FF1A582013005F5313 /* Ace.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ace.png; sourceTree = "<group>"; };
-		300272001A582013005F5313 /* Ace@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ace@2x.png"; sourceTree = "<group>"; };
-		300272011A582013005F5313 /* Ace@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ace@3x.png"; sourceTree = "<group>"; };
-		300272021A582013005F5313 /* Eight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eight.png; sourceTree = "<group>"; };
-		300272031A582013005F5313 /* Eight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Eight@2x.png"; sourceTree = "<group>"; };
-		300272041A582013005F5313 /* Eight@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Eight@3x.png"; sourceTree = "<group>"; };
-		300272051A582013005F5313 /* Five.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Five.png; sourceTree = "<group>"; };
-		300272061A582013005F5313 /* Five@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Five@2x.png"; sourceTree = "<group>"; };
-		300272071A582013005F5313 /* Five@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Five@3x.png"; sourceTree = "<group>"; };
-		300272081A582013005F5313 /* Four.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Four.png; sourceTree = "<group>"; };
-		300272091A582013005F5313 /* Four@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Four@2x.png"; sourceTree = "<group>"; };
-		3002720A1A582013005F5313 /* Four@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Four@3x.png"; sourceTree = "<group>"; };
-		3002720B1A582013005F5313 /* Jack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jack.png; sourceTree = "<group>"; };
-		3002720C1A582013005F5313 /* Jack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jack@2x.png"; sourceTree = "<group>"; };
-		3002720D1A582013005F5313 /* Jack@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jack@3x.png"; sourceTree = "<group>"; };
-		3002720E1A582013005F5313 /* King.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = King.png; sourceTree = "<group>"; };
-		3002720F1A582013005F5313 /* King@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "King@2x.png"; sourceTree = "<group>"; };
-		300272101A582013005F5313 /* King@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "King@3x.png"; sourceTree = "<group>"; };
-		300272111A582013005F5313 /* Nine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nine.png; sourceTree = "<group>"; };
-		300272121A582013005F5313 /* Nine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Nine@2x.png"; sourceTree = "<group>"; };
-		300272131A582013005F5313 /* Nine@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Nine@3x.png"; sourceTree = "<group>"; };
-		300272141A582013005F5313 /* Queen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Queen.png; sourceTree = "<group>"; };
-		300272151A582013005F5313 /* Queen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Queen@2x.png"; sourceTree = "<group>"; };
-		300272161A582013005F5313 /* Queen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Queen@3x.png"; sourceTree = "<group>"; };
-		300272171A582013005F5313 /* Seven.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Seven.png; sourceTree = "<group>"; };
-		300272181A582013005F5313 /* Seven@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Seven@2x.png"; sourceTree = "<group>"; };
-		300272191A582013005F5313 /* Seven@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Seven@3x.png"; sourceTree = "<group>"; };
-		3002721A1A582013005F5313 /* Six.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Six.png; sourceTree = "<group>"; };
-		3002721B1A582013005F5313 /* Six@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Six@2x.png"; sourceTree = "<group>"; };
-		3002721C1A582013005F5313 /* Six@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Six@3x.png"; sourceTree = "<group>"; };
-		3002721D1A582013005F5313 /* Ten.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ten.png; sourceTree = "<group>"; };
-		3002721E1A582013005F5313 /* Ten@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ten@2x.png"; sourceTree = "<group>"; };
-		3002721F1A582013005F5313 /* Ten@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ten@3x.png"; sourceTree = "<group>"; };
-		300272201A582013005F5313 /* Three.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Three.png; sourceTree = "<group>"; };
-		300272211A582013005F5313 /* Three@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Three@2x.png"; sourceTree = "<group>"; };
-		300272221A582013005F5313 /* Three@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Three@3x.png"; sourceTree = "<group>"; };
-		300272231A582013005F5313 /* Two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Two.png; sourceTree = "<group>"; };
-		300272241A582013005F5313 /* Two@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Two@2x.png"; sourceTree = "<group>"; };
-		300272251A582013005F5313 /* Two@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Two@3x.png"; sourceTree = "<group>"; };
+		3002724D1A582141005F5313 /* Factory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Factory.swift; path = ../Factory.swift; sourceTree = "<group>"; };
 		3070A03D1A555C140085FE55 /* SlotMachine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlotMachine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3070A0411A555C140085FE55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3070A0421A555C140085FE55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -157,6 +81,7 @@
 		3070A03F1A555C140085FE55 /* SlotMachine */ = {
 			isa = PBXGroup;
 			children = (
+				3002724D1A582141005F5313 /* Factory.swift */,
 				3070A0421A555C140085FE55 /* AppDelegate.swift */,
 				3070A0441A555C140085FE55 /* ViewController.swift */,
 				300271FD1A581F88005F5313 /* Slot.swift */,
@@ -171,45 +96,6 @@
 		3070A0401A555C140085FE55 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				300271FF1A582013005F5313 /* Ace.png */,
-				300272001A582013005F5313 /* Ace@2x.png */,
-				300272011A582013005F5313 /* Ace@3x.png */,
-				300272021A582013005F5313 /* Eight.png */,
-				300272031A582013005F5313 /* Eight@2x.png */,
-				300272041A582013005F5313 /* Eight@3x.png */,
-				300272051A582013005F5313 /* Five.png */,
-				300272061A582013005F5313 /* Five@2x.png */,
-				300272071A582013005F5313 /* Five@3x.png */,
-				300272081A582013005F5313 /* Four.png */,
-				300272091A582013005F5313 /* Four@2x.png */,
-				3002720A1A582013005F5313 /* Four@3x.png */,
-				3002720B1A582013005F5313 /* Jack.png */,
-				3002720C1A582013005F5313 /* Jack@2x.png */,
-				3002720D1A582013005F5313 /* Jack@3x.png */,
-				3002720E1A582013005F5313 /* King.png */,
-				3002720F1A582013005F5313 /* King@2x.png */,
-				300272101A582013005F5313 /* King@3x.png */,
-				300272111A582013005F5313 /* Nine.png */,
-				300272121A582013005F5313 /* Nine@2x.png */,
-				300272131A582013005F5313 /* Nine@3x.png */,
-				300272141A582013005F5313 /* Queen.png */,
-				300272151A582013005F5313 /* Queen@2x.png */,
-				300272161A582013005F5313 /* Queen@3x.png */,
-				300272171A582013005F5313 /* Seven.png */,
-				300272181A582013005F5313 /* Seven@2x.png */,
-				300272191A582013005F5313 /* Seven@3x.png */,
-				3002721A1A582013005F5313 /* Six.png */,
-				3002721B1A582013005F5313 /* Six@2x.png */,
-				3002721C1A582013005F5313 /* Six@3x.png */,
-				3002721D1A582013005F5313 /* Ten.png */,
-				3002721E1A582013005F5313 /* Ten@2x.png */,
-				3002721F1A582013005F5313 /* Ten@3x.png */,
-				300272201A582013005F5313 /* Three.png */,
-				300272211A582013005F5313 /* Three@2x.png */,
-				300272221A582013005F5313 /* Three@3x.png */,
-				300272231A582013005F5313 /* Two.png */,
-				300272241A582013005F5313 /* Two@2x.png */,
-				300272251A582013005F5313 /* Two@3x.png */,
 				3070A0411A555C140085FE55 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -312,48 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				300272371A582013005F5313 /* King@3x.png in Resources */,
-				300272491A582013005F5313 /* Three@3x.png in Resources */,
-				3002723D1A582013005F5313 /* Queen@3x.png in Resources */,
-				300272301A582013005F5313 /* Four@2x.png in Resources */,
-				300272461A582013005F5313 /* Ten@3x.png in Resources */,
-				300272271A582013005F5313 /* Ace@2x.png in Resources */,
-				300272331A582013005F5313 /* Jack@2x.png in Resources */,
-				300272281A582013005F5313 /* Ace@3x.png in Resources */,
-				3002723C1A582013005F5313 /* Queen@2x.png in Resources */,
-				3002722B1A582013005F5313 /* Eight@3x.png in Resources */,
-				300272321A582013005F5313 /* Jack.png in Resources */,
-				300272401A582013005F5313 /* Seven@3x.png in Resources */,
-				3002722E1A582013005F5313 /* Five@3x.png in Resources */,
-				3002722A1A582013005F5313 /* Eight@2x.png in Resources */,
-				300272451A582013005F5313 /* Ten@2x.png in Resources */,
 				3070A0481A555C140085FE55 /* Main.storyboard in Resources */,
-				300272361A582013005F5313 /* King@2x.png in Resources */,
-				3002723A1A582013005F5313 /* Nine@3x.png in Resources */,
 				3070A04D1A555C140085FE55 /* LaunchScreen.xib in Resources */,
-				300272351A582013005F5313 /* King.png in Resources */,
-				300272381A582013005F5313 /* Nine.png in Resources */,
-				3002723E1A582013005F5313 /* Seven.png in Resources */,
 				3070A04A1A555C140085FE55 /* Images.xcassets in Resources */,
-				300272391A582013005F5313 /* Nine@2x.png in Resources */,
-				3002722C1A582013005F5313 /* Five.png in Resources */,
-				300272291A582013005F5313 /* Eight.png in Resources */,
-				3002724C1A582013005F5313 /* Two@3x.png in Resources */,
-				300272311A582013005F5313 /* Four@3x.png in Resources */,
-				3002724B1A582013005F5313 /* Two@2x.png in Resources */,
-				300272341A582013005F5313 /* Jack@3x.png in Resources */,
-				300272481A582013005F5313 /* Three@2x.png in Resources */,
-				3002723F1A582013005F5313 /* Seven@2x.png in Resources */,
-				300272411A582013005F5313 /* Six.png in Resources */,
-				300272421A582013005F5313 /* Six@2x.png in Resources */,
-				3002722D1A582013005F5313 /* Five@2x.png in Resources */,
-				3002723B1A582013005F5313 /* Queen.png in Resources */,
-				3002722F1A582013005F5313 /* Four.png in Resources */,
-				300272471A582013005F5313 /* Three.png in Resources */,
-				3002724A1A582013005F5313 /* Two.png in Resources */,
-				300272261A582013005F5313 /* Ace.png in Resources */,
-				300272431A582013005F5313 /* Six@3x.png in Resources */,
-				300272441A582013005F5313 /* Ten.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3002724E1A582141005F5313 /* Factory.swift in Sources */,
 				3070A0451A555C140085FE55 /* ViewController.swift in Sources */,
 				300271FE1A581F88005F5313 /* Slot.swift in Sources */,
 				3070A0431A555C140085FE55 /* AppDelegate.swift in Sources */,
